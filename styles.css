@@ -1,0 +1,54 @@
+
+body{
+  background-color: #4b7f86b2;
+}
+
+#instructions{
+  text-align: center;
+  font-size: 40px;
+  color: white;
+}
+
+
+.container{
+  width: 350px;
+  margin:auto;
+  text-align:center;
+  background-color: #2f4557dc;
+  padding: 20px;
+  margin-top: 5%;
+  color: white;
+  border-radius: 20%;
+}
+
+
+h1{
+  font-size: 60px;
+  text-align: center;
+  color: white;
+}
+
+h2{
+  font-size: 40px;
+}
+
+
+button{
+  width: 80px;
+  height: 40px;
+  font-size: 20px;
+  padding: 8px;
+  border-radius: 20px;
+  color: white;
+  background-color: #5483aadc;
+}
+
+button:hover{
+  opacity: 0.5;
+  color: pink;
+  font-size: 22px;
+}
+
+button:active{
+  border: black 3px solid;
+}
